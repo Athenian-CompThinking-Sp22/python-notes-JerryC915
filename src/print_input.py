@@ -6,3 +6,10 @@
 #############################
 
 # Write code here:
+print("Hello World")
+# name = input("Wat ur name? ")
+# name1 = "Ansh"
+# print(f"Hello {name}!")
+# print(name)
+
+
